@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -13,3 +14,28 @@
 .externalNativeBuild
 .cxx
 local.properties
+=======
+/.idea/
+/.gradle/
+/build/
+*.iml
+.DS_Store
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+>>>>>>> e3c81d54553705622d95abdded24c16006c1bea6

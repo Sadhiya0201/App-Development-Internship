@@ -19,5 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "ApexPlanet"
+=======
+rootProject.name = "Task1Setup"
+>>>>>>> e3c81d54553705622d95abdded24c16006c1bea6
 include(":app")

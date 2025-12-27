@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714992909151",
+    "project_id": "advancedfeaturesapp2",
+    "storage_bucket": "advancedfeaturesapp2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714992909151:android:b168f4d79fd2231183d4ea",
+        "android_client_info": {
+          "package_name": "com.example.advancedfeaturesapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGihKmwo-TX8ULgcYC7X-dgn11HHFyWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
